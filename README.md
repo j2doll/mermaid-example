@@ -1,2 +1,9 @@
 # mermaid
-mermaid diagram
+
+- mermaid diagram
+
+```mermaid
+sequenceDiagram
+Alice->>Bob: Hello Bob, how are you?
+Bob-->>Alice: I am good thanks!
+```
