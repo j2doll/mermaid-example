@@ -90,7 +90,7 @@ journey
       Sit down: 5: Me
 ```
 
-- q
+- quadrantChart
 
 ```mermaid
 quadrantChart
